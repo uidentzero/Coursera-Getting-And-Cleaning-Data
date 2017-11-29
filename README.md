@@ -1,6 +1,6 @@
 # Coursera-Getting-And-Cleaning-Data
 
-  Introduction
+  # Introduction
 
   This repository contains the course project files for Coursera's "Getting and Cleaning Data."  
   
@@ -14,20 +14,23 @@
   
   
 
-About The Raw Data
+  # About The Raw Data
 
 
-About The Tidy Data Set
 
 
-About The run_analysis.R Script
 
-(This is quoted from course requirements:
+  # About The run_analysis.R Script
 
-"[the] run_analysis.R script:
+  Quoted from course requirements:
+
+  "[the] run_analysis.R script:
 
     Merges the training and the test sets to create one data set.
     Extracts only the measurements on the mean and standard deviation for each measurement.
     Uses descriptive activity names to name the activities in the data set
     Appropriately labels the data set with descriptive variable names.
     From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity    and each subject.
+
+
+About The Tidy Data Set
