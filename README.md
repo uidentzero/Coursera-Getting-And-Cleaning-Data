@@ -7,7 +7,7 @@
   It contains:
   
   1. The raw data
-  2. A tidy data set
+  2. A tidy data set derived from the raw data
   3. A code book for describing the tidy set
   4. The recipe used to create the tidy data set from the raw data
   
