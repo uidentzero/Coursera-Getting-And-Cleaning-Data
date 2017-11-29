@@ -6,11 +6,11 @@
   
   It contains:
   
-  1. The raw data
-  2. A script called run_analysis.R
-  3. A tidy data set derived from the run_analysis.R running against the raw data
-  4. A code book for describing the tidy set
-  5. The recipe used to create the tidy data set from the raw data
+    - The raw data
+    - A script called run_analysis.R
+    - A tidy data set derived from the run_analysis.R running against the raw data
+    - A code book for describing the tidy set
+    - The recipe used to create the tidy data set from the raw data
   
   
 
